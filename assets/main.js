@@ -129,7 +129,7 @@ var swiperTestimonial = new Swiper('.testimonial_container', {
 });
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
-const sections = document.querySelectorAll('about')
+const sections = document.querySelectorAll('section[id]')
 
 function scrollActive(){
     const scrollY = window.pageYOffset

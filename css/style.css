@@ -17,7 +17,7 @@
   --title-color: hsl(var(--hue-color), 8%, 15%);
   --text-color: hsl(var(--hue-color), 8%, 45%);
   --text-color-light: hsl(var(--hue-color), 8%, 65%);
-  --input-color: hsl(var(--hue-color), 70%, 96%);
+  --input-color: hsl(var(--hue-color), 70%, 91%);
   --body-color: hsl(var(--hue-color), 60%, 99%);
   --container-color: #FFF;
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
@@ -518,19 +518,15 @@ skills_subtitle {
   width: 75%;
 }
 
-.skills_react {
-  width: 60%;
-}
-
-.skills_php {
-  width: 62%;
+.skills_java {
+  width: 75%;
 }
 
 .skills_node {
-  width: 68%;
+  width: 50%;
 }
 
-.skills_firebase {
+.skills_sql {
   width: 65%;
 }
 
@@ -540,10 +536,6 @@ skills_subtitle {
 
 .skills_figma {
   width: 92%;
-}
-
-.skills_sketch {
-  width: 58%;
 }
 
 .skills_photoshop {
@@ -818,7 +810,7 @@ skills_subtitle {
 }
 
 .project_img {
-  width: 232px;
+  width: 262px;
   justify-self: center;
 }
 
